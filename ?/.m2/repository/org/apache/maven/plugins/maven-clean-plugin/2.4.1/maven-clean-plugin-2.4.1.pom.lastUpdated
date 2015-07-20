@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jul 20 11:22:47 BRT 2015
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1437402167705
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.4.1 from/to central (http\://repo.maven.apache.org/maven2)\: repo.maven.apache.org\: unknown error
